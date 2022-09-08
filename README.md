@@ -1,3 +1,3 @@
 # ReVanced Manager
 
-The official ReVanced Manager based on Flutter
+The official ReVanced Manager based on Flutter.
